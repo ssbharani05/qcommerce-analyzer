@@ -1,0 +1,74 @@
+{
+  "platforms": {
+    "blinkit": {
+      "name": "Blinkit",
+      "market_share": 0.50,
+      "commission_rate": 0.18,
+      "listing_fee_per_sku": 25000,
+      "fulfillment_fee_per_order": 50,
+      "min_monthly_ad_spend": 250000,
+      "avg_aov": 709,
+      "avg_delivery_time_mins": 10,
+      "dark_stores": 500,
+      "best_categories": ["FMCG", "Personal Care", "Snacks", "Beverages"],
+      "worst_categories": ["Fashion", "Electronics", "Furniture"],
+      "target_audience": "Urban millennials, premium buyers",
+      "cities_active": 30,
+      "profitability_status": "EBITDA positive",
+      "platform_fee_note": "Listing fee returned as ad credits (12 month expiry)"
+    },
+    "zepto": {
+      "name": "Zepto",
+      "market_share": 0.29,
+      "commission_rate": 0.20,
+      "listing_fee_per_sku": 0,
+      "fulfillment_fee_per_order": 45,
+      "min_monthly_ad_spend": 500000,
+      "avg_aov": 650,
+      "avg_delivery_time_mins": 10,
+      "dark_stores": 250,
+      "best_categories": ["Snacks", "Beverages", "Beauty", "Personal Care"],
+      "worst_categories": ["Fashion", "Furniture", "Large Electronics"],
+      "target_audience": "Gen Z, urban millennials, impulse buyers",
+      "cities_active": 20,
+      "profitability_status": "Scaling, contribution margin improving",
+      "platform_fee_note": "Bundled onboarding package starts at 5-6 lakhs"
+    },
+    "instamart": {
+      "name": "Swiggy Instamart",
+      "market_share": 0.23,
+      "commission_rate": 0.15,
+      "listing_fee_per_sku": 0,
+      "fulfillment_fee_per_order": 40,
+      "min_monthly_ad_spend": 200000,
+      "avg_aov": 619,
+      "avg_delivery_time_mins": 15,
+      "dark_stores": 400,
+      "best_categories": ["Grocery", "FMCG", "Household", "Personal Care"],
+      "worst_categories": ["Fashion", "Electronics", "Luxury"],
+      "target_audience": "Existing Swiggy food users, families, daily need buyers",
+      "cities_active": 25,
+      "profitability_status": "Investing heavily, GOV doubled YoY",
+      "platform_fee_note": "Quarterly investment of 8-10 lakhs recommended"
+    }
+  },
+  "market_data": {
+    "total_market_gmv_usd_billion": 5,
+    "yoy_growth_percent": 40,
+    "projected_market_2029_usd_billion": 12.97,
+    "total_dark_stores_2026": 2500,
+    "top_cities": ["Bengaluru", "Mumbai", "Delhi NCR", "Hyderabad", "Pune", "Chennai"],
+    "avg_brand_failure_rate_percent": 68,
+    "avg_platform_take_rate_percent": 42
+  },
+  "category_benchmarks": {
+    "FMCG": { "avg_gross_margin": 0.45, "repeat_purchase_rate": 0.72, "qcommerce_fit_score": 9 },
+    "Personal Care": { "avg_gross_margin": 0.55, "repeat_purchase_rate": 0.65, "qcommerce_fit_score": 8 },
+    "Snacks": { "avg_gross_margin": 0.40, "repeat_purchase_rate": 0.70, "qcommerce_fit_score": 8 },
+    "Beverages": { "avg_gross_margin": 0.38, "repeat_purchase_rate": 0.68, "qcommerce_fit_score": 7 },
+    "Beauty": { "avg_gross_margin": 0.60, "repeat_purchase_rate": 0.55, "qcommerce_fit_score": 7 },
+    "Grocery": { "avg_gross_margin": 0.20, "repeat_purchase_rate": 0.85, "qcommerce_fit_score": 6 },
+    "Fashion": { "avg_gross_margin": 0.50, "repeat_purchase_rate": 0.30, "qcommerce_fit_score": 3 },
+    "Electronics": { "avg_gross_margin": 0.15, "repeat_purchase_rate": 0.20, "qcommerce_fit_score": 2 }
+  }
+}
