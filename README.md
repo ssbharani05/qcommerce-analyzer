@@ -4,7 +4,7 @@
 > A data-driven profitability tool built for Indian D2C brands navigating the 2026 quick commerce landscape.
 
 Live Tool: https://qcommerce-analyzer-lbm2shxfnffcrjezpnfwj2.streamlit.app/
-
+Landing Page: https://ssbharani05.github.io/qcommerce-landing
 ---
 
 ## The Problem
